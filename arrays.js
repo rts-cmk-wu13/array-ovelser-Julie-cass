@@ -18,11 +18,13 @@ console.log(catsArray)
 
 /* opgave 4 */
 
-/* opgave 5  mutiply each with 3*/
+/* opgave 5  mutiply each with 3 */
 
 let multipy = numbersArray.map((x) => x * 3);
-
-/* opgave 6 */
-
 console.log(multipy);
+
+/* opgave 6 join dog namelist in one line iwth no space between */
+
+console.log(dogsArray.join(''));
+
 }) // ends DOMContentLoaded
