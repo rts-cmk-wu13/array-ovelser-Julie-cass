@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
 return value >=20;
   });
   console.log(a);
-  /* opgave 2 */
-  
+  /* opgave 2 add element to array */
+catsArray.push("sniffles");
+console.log(catsArray)
 }) // ends DOMContentLoaded
