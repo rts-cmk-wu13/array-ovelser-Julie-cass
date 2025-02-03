@@ -13,4 +13,16 @@ return value >=20;
   /* opgave 2 add element to array */
 catsArray.push("sniffles");
 console.log(catsArray)
+
+/* opgave 3 */
+
+/* opgave 4 */
+
+/* opgave 5  mutiply each with 3*/
+
+let multipy = numbersArray.map((x) => x * 3);
+
+/* opgave 6 */
+
+console.log(multipy);
 }) // ends DOMContentLoaded
